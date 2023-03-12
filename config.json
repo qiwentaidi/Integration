@@ -1,0 +1,100 @@
+{
+  "database": {
+    "elastic-hd": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\利用工具\\数据库\\ElasticHD.exe"
+    },
+    "navicat": {
+      "method": "exe",
+      "path": "D:\\Program Files\\PremiumSoft\\Navicat Premium 16\\navicat.exe"
+    },
+    "oracleshell": {
+      "method": "java",
+      "path": "D:\\ShenTouCeShi\\利用工具\\数据库\\oracleShell.jar"
+    },
+    "redis remote desktop": {
+      "method": "exe",
+      "path": "D:\\Program Files\\Another\\Another Redis Desktop Manager\\Another Redis Desktop Manager.exe"
+    }
+  },
+  "exp": {
+    "myexploit": {
+      "method": "java",
+      "path": "D:\\ShenTouCeShi\\利用工具\\OA\\MYExploit.jar"
+    },
+    "nacos": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\利用工具\\web应用\\Alibaba-Nacos-Unauthorized.jar"
+    }
+  },
+  "framework": {
+    "shiro": {
+      "method": "java",
+      "path": "D:\\ShenTouCeShi\\利用工具\\开发框架\\Shiro\\shiro_attack-4.5.6-SNAPSHOT-all.jar"
+    },
+    "struts2": {
+      "method": "java",
+      "path": "D:\\ShenTouCeShi\\利用工具\\开发框架\\Struts2\\Struts2全版本漏洞检测工具18.09过waf版.jar"
+    }
+  },
+  "info": {
+    "dirsearch": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\信息收集\\dirsearch-master"
+    },
+    "ksubdomain": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\信息收集\\子域名收集\\ksubdomain.exe"
+    },
+    "packerfuzz": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\信息收集\\Packer-Fuzzer-master\\PackerFuzzer.py"
+    },
+    "urlfinder": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\信息收集\\URLFinder-master"
+    }
+  },
+  "other": {
+    "burp": {
+      "method": "bat",
+      "path": "D:\\ShenTouCeShi\\20230217_BurpSuite_pro_v2023.2.1\\BurpSuiteLoader.bat"
+    },
+    "sqlmap": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\专项测试工具\\sqlmap\\sqlmap.py"
+    },
+    "全国两会": {
+      "method": "folder",
+      "path": "D:\\工作\\安恒\\A政府类\\浙江省大数据局\\全国两会重保值守2023.3.6-2023.3.12\\工作安排"
+    }
+  },
+  "scanner": {
+    "fscan": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\漏扫工具\\Fscan\\fscan64.exe"
+    },
+    "nuclei": {
+      "method": "folder",
+      "path": "D:\\ShenTouCeShi\\漏扫工具\\Nuclei\\nuclei.exe"
+    },
+    "railgun": {
+      "method": "exe",
+      "path": "D:\\ShenTouCeShi\\漏扫工具\\railgun\\gorailgun-1.4.6.exe"
+    }
+  },
+  "webshell": {
+    "sky": {
+      "method": "java",
+      "path": "D:\\ShenTouCeShi\\webshell工具\\天蝎\\sky.jar"
+    },
+    "哥斯拉": {
+      "method": "java",
+      "path": "D:\\ShenTouCeShi\\webshell工具\\哥斯拉\\godzilla.jar"
+    },
+    "蚁剑": {
+      "method": "exe",
+      "path": "D:\\ShenTouCeShi\\webshell工具\\蚁剑\\AntSwordLoader\\AntSword.exe"
+    }
+  }
+}
