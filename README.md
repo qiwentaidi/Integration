@@ -92,6 +92,10 @@ bat修改-javaagent:%burp-loader-keygen-2_1_06.jar为下面代码
 5. 暂不支持名称重命名
 6. 由于fyne框架本身不支持中文，所以需要打包tff字体文件，如果追求轻量化又不需要中文，可以删除字体文件进行并删除main.go的init函数重新打包
 
+## 项目地址：
+
+https://github.com/qiwentaidi/Integration/
+
 ## 打包：
 
 ```
